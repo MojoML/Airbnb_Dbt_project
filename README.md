@@ -14,3 +14,8 @@ In the last Layer, a Seeds File containing Dates about Full Moon Occurances is a
 In the last Stage, **Preset** is used to create an "Executive Dashboard" for Business Intelligence.
 ## Final Dashboard
 <img width="1839" alt="image" src="https://user-images.githubusercontent.com/60922141/162275168-cdcbba71-5329-4512-a405-7b4ec93c2e85.png">
+
+## Technology Stack
+- **Snowflake**
+- **Dbt**
+- **Preset**
